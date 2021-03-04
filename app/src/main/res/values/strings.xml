@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sharedpreference</string>
+    <string name="Fname">Enter First Name</string>
+    <string name="Lname">Enter Last Name</string>
+</resources>
